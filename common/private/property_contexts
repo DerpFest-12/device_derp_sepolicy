@@ -8,3 +8,6 @@ vendor.camera.aux.packageexcludelist       u:object_r:vendor_exported_system_pro
 vendor.camera.aux.packagelist              u:object_r:vendor_exported_system_prop:s0
 persist.vendor.camera.privapp.list         u:object_r:vendor_exported_system_prop:s0
 vendor.camera.skip_unconfigure.packagelist u:object_r:vendor_exported_system_prop:s0
+
+# Wi-Fi Display
+media.wfd.                             u:object_r:media_wfd_prop:s0
