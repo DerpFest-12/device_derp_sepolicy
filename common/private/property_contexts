@@ -11,3 +11,6 @@ vendor.camera.skip_unconfigure.packagelist u:object_r:vendor_exported_system_pro
 
 # Wi-Fi Display
 media.wfd.                             u:object_r:media_wfd_prop:s0
+
+# Powerusage provider
+persist.powerusage_provider_google     u:object_r:exported_system_prop:s0
